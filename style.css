@@ -1,0 +1,12 @@
+span{
+    position: absolute;
+    left: -5px;
+    top: -5px;
+    height: 5px;
+    width: 5px;
+    background: white;
+    border-radius: 50%;
+}
+body{
+    overflow: hidden;
+}
